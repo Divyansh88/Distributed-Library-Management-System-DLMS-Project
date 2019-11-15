@@ -1,0 +1,11 @@
+2019-04-03T17:13:20.620--ADD--MONM1111, MON6231, DS, 1--[succeed] DS Successfully added.
+2019-04-03T17:18:41.794--ADD--MONM1111, MON6441, DS, 1--[succeed] DS Successfully added.
+2019-04-03T17:20:41.457--ADD--MONM1111, MON6441, DS, 1--[succeed] DS Successfully added.
+2019-04-03T17:22:43.563--ADD--MONM1111, MON6111, DS4, 1--[succeed] DS4 Successfully added.
+2019-04-03T17:22:43.607--BORROW--MONU0000, MCG6111, 1--[succeed] MCG6111 is successfully borrowed.
+2019-04-03T17:22:43.630--RETURN--MONU0000, MCG6111--[succeed] Successfully Returned
+2019-04-03T17:22:43.645--BORROW--MONU0000, MCG6112, 10--[succeed] MCG6112 is successfully borrowed.
+2019-04-03T17:22:43.655--EXCHANGE--MONU0000, , MCG6112, MCG6111--[succeed] Successfully exchange MCG6112 with MCG6111
+2019-04-03T17:23:37.970--ADD--MONM1111, MON6111, DS4, 2--[succeed] Book DS4 already exist, increased the quantity.
+2019-04-03T17:26:28.639--ADD--MONM1111, MON6231, DS, 1--[succeed] DS Successfully added.
+2019-04-03T17:27:11.515--ADD--MONM1111, MON62442, AS, 1--[succeed] AS Successfully added.

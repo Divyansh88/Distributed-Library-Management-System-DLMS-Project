@@ -1,0 +1,28 @@
+2019-04-03T17:12:08.606--ADD--MCGM1111, MCG6231, DS, 1--[succeed] DS Successfully added.
+2019-04-03T17:13:02.117--ADD--MCGM1111, MCG6441, AS, 1--[succeed] AS Successfully added.
+2019-04-03T17:15:26.211--ADD--MCGM1111, MCG6231, DS, 2--[succeed] Book DS already exist, increased the quantity.
+2019-04-03T17:16:41.219--LIST--MCGM1111--[succeed]MCG6441 AS 1, MCG6231 DS 2, 
+2019-04-03T17:18:41.794--ADD--MCGM1111, MCG6231, DS, 3--[succeed] DS Successfully added.
+2019-04-03T17:18:41.816--ADD--MCGM1111, MCG6441, AS, 2--[succeed] AS Successfully added.
+2019-04-03T17:20:41.457--ADD--MCGM1111, MCG6231, DS, 3--[succeed] DS Successfully added.
+2019-04-03T17:20:41.493--ADD--MCGM1111, MCG6441, AS, 2--[succeed] AS Successfully added.
+2019-04-03T17:20:42.463--LIST--MCGM1111--[succeed]MCG6441 AS 2, MCG6231 DS 3, 
+2019-04-03T17:20:43.523--REMOVE--MCGM1111, MCG6231, 1--[succeed] 1 book of ID MCG6231 removed from library.
+2019-04-03T17:20:43.552--LIST--MCGM1111--[succeed]MCG6441 AS 2, MCG6231 DS 2, 
+2019-04-03T17:20:44.570--FIND--MCGU0000, DS--[succeed] MCG6231 2, , MON6441 1
+2019-04-03T17:20:45.619--BORROW--MCGU0000, MCG6231, 1--[succeed] MCG6231 is successfully borrowed.
+2019-04-03T17:20:45.650--LIST--MCGM1111--[succeed]MCG6441 AS 2, MCG6231 DS 1, 
+2019-04-03T17:20:46.692--RETURN--MCGU0000, MCG6231--[succeed] Successfully Returned
+2019-04-03T17:20:46.713--BORROW--MCGU0000, MCG6441, 10--[succeed] MCG6441 is successfully borrowed.
+2019-04-03T17:20:46.735--EXCHANGE--MCGU0000, , MCG6441, MCG6231--[succeed] Successfully exchange MCG6441 with MCG6231
+2019-04-03T17:20:46.755--LIST--MCGM1111--[succeed]MCG6441 AS 1, MCG6231 DS 2, 
+2019-04-03T17:20:47.743--RETURN--MCGU0000, MCG6441--[succeed] Successfully Returned
+2019-04-03T17:20:47.757--LIST--MCGM1111--[succeed]MCG6441 AS 2, MCG6231 DS 2, 
+2019-04-03T17:22:43.563--ADD--MCGM1111, MCG6111, DS1, 1--[succeed] DS1 Successfully added.
+2019-04-03T17:22:43.585--ADD--MCGM1111, MCG6112, DS2, 1--[succeed] DS2 Successfully added.
+2019-04-03T17:22:43.596--ADD--MCGM1111, MCG6113, DS3, 0--[succeed] DS3 Successfully added.
+2019-04-03T17:22:43.673--LIST--MCGM1111--[succeed]MCG6113 DS3 0, MCG6111 DS1 1, MCG6112 DS2 0, 
+2019-04-03T17:23:37.923--ADD--MCGM1111, MCG6111, DS1, 2--[succeed] Book DS1 already exist, increased the quantity.
+2019-04-03T17:23:37.946--ADD--MCGM1111, MCG6112, DS2, 1--[succeed] Book DS2 already exist, increased the quantity.
+2019-04-03T17:23:37.959--ADD--MCGM1111, MCG6113, DS3, 0--[succeed] Book DS3 already exist, increased the quantity.
+2019-04-03T17:26:12.100--ADD--MCGM1111, MCG6231, DS, 1--[succeed] DS Successfully added.
